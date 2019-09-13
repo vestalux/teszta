@@ -4,7 +4,7 @@ description: A húsleves alapvető kelléke
 category: Levestészta
 layout: post
 date: '2018-11-22T00:00:00+01:00'
-image: "img/portfolio/cernametelt.jpg"
+image: "img/portfolio/cernametelt2.jpg"
 ---
 ## 4 tojásos
 
